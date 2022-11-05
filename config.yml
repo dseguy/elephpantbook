@@ -1,0 +1,8 @@
+title: 'The big elePHPant book'
+baseline: 'This is the stories of the elePHPants'
+baseurl: 'http://localhost:8000/'
+description: 'This site collects stories of elephpants and various aspect of their folklore'
+author:
+    name: 'Arnaud Ligny'
+    url: 'https://arnaudligny.fr'
+image: cecil-card.png
